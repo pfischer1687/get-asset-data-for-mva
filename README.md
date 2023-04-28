@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mvanalyzer.dev/">
-    <img alt="MVA logo" src="./images/mva-logo.png" width="300" />
+    <img alt="MVA logo" src="./src/images/mva-logo.png" width="300" />
   </a>
 </p>
 <h1 align="center">
