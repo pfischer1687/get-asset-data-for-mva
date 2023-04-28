@@ -48,7 +48,7 @@ Paul Fischer
 
 ## License
 
-© 2023 All rights reserved
+Unlicensed - © 2023 All rights reserved
 
 Please see the site's [Terms of Service](https://mvanalyzer.dev/terms/) for more details.
 
