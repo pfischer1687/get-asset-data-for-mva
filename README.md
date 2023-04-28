@@ -26,9 +26,10 @@ Paul Fischer
 
 ## Dependencies
 
-- `python 3.7.11`
-- `pandas 1.3.5`
-- `yfinance 0.2.9`
+- `python@3.7.11`
+- `jupyter-notebook@5.7.8`
+- `pandas@1.3.5`
+- `yfinance@0.2.18`
 
 ## Keywords
 
